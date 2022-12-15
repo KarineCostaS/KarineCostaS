@@ -26,7 +26,6 @@
 <a href="https://www.linkedin.com/in/karinecsousa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1052768365384568855/1052769876093173812/338224_6QCwyLH5.png?width=458&height=458">
-
  </div>
  
           
