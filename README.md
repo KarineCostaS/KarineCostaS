@@ -1,7 +1,7 @@
 ## Oiii, eu sou a Karine.
 
 
-- 🔭 QA
+- 🔭 QA Automação.
 - 🌱 Estudando Node.JS e Automação de Testes
 - 📫 karine.costadev@gmail.com
 - 😄 Pronouns: ela/dela
